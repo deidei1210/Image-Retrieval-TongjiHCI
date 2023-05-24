@@ -17,7 +17,7 @@ Design an image search system that meets the following requirements:
 
 ### 2.1 User uploads image(Formulation)
 
-![Untitled](Lab3%20Information%20Retrieval%20968d016f709f4fe1b08ae61808645ddb/Untitled.png)
+![Untitled]([Lab3%20Information%20Retrieval%20968d016f709f4fe1b08ae61808645ddb/Untitled.png](https://github.com/deidei1210/Image-Retrieval-TongjiHCI/blob/master/Preview/Untitled.png))
 
 Here is the area where we upload photos that need to be searched for similar images. In this area, users click the "Upload" button as prompted to upload photos. 
 
