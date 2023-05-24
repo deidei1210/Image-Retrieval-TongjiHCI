@@ -25,7 +25,7 @@ To let users see the progress of the uploaded images, we added a progress bar on
 
 After the photo is successfully uploaded, it will be displayed below the button.
 
-![Untitled](Lab3%20Information%20Retrieval%20968d016f709f4fe1b08ae61808645ddb/Untitled%201.png)
+![Untitled](Preview/Untitled 1.png)
 
 ### 2.2  Search Images(Initiation & Review)
 
